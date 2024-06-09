@@ -1,2 +1,2 @@
-# Calculator Program in Python
+# Calculator GUI in Python
 - Calculate using any operand available
